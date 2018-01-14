@@ -1,7 +1,7 @@
 import React from 'react';
-import {Route} from'react-router';
+import {Route} from 'react-router';
 import App from './components/App';
-import Home from './compontents/Home';
+import Home from './components/Home';
 
 export default (
   <Route component={App}>
